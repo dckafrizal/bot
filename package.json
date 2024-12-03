@@ -1,0 +1,52 @@
+{
+    "name": "@dilxVXII",
+    "version": "2.8.0",
+    "description": "up",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "whiskeysockets",
+        "multi-device"
+    ],
+    "author": "@dilxVXII",
+    "license": "MIT",
+    "dependencies": {
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "@hapi/boom": "^10.0.0",
+        "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@6.7.7",
+        "awesome-phonenumber": "^2.70.0",
+        "axios": "^1.1.3",
+        "chalk": "^4.1.2",
+        "cheerio": "^1.0.0-rc.10",
+        "crypto": "^1.0.1",
+        "deobfuscator":"^2.4.5",
+        "figlet": "latest",
+        "file-type": "^16.5.3",
+        "fluent-ffmpeg": "^2.1.2",
+        "form-data": "latest",
+        "figlet": "^1.5.2",
+        "human-readable": "^0.2.1",
+        "jimp": "^0.16.1",
+        "js-confuser": "^1.7.3",
+        "javascript-obfuscator": "^4.1.0",
+        "lowdb": "^2.1.0",
+        "mongoose": "^7.4.5",
+        "moment-timezone": "^0.5.34",
+        "ms": "latest",
+        "node-fetch": "^2.6.1",
+        "node-webpmux": "^3.1.0",
+        "os": "latest",
+        "path": "^0.12.7",
+        "performance-now": "^2.1.0",
+        "pino": "^7.0.5",
+        "qrcode": "^1.5.1",
+        "qrcode-terminal": "^0.12.0",
+        "ssh2": "^1.14.0",
+        "spinnies": "^0.5.1",
+        "util": "^0.12.4",
+        "webcrack": "latest"
+    }
+}
